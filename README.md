@@ -1,7 +1,7 @@
 
 -----
 
-# TODO Application (Full-Stack Monorepo)
+# TODO Application (Full-Stack)
 
 A simple, full-stack application for managing a list of tasks (To-Dos). This project is structured as a monorepo, separating the client-side user interface (Frontend) from the server-side logic and database connectivity (Backend).
 
