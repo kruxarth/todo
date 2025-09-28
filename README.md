@@ -1,6 +1,3 @@
-This repository, `kruxarth/todo`, currently lacks a `README.md` file. Based on the file structure and language analysis (TypeScript, JavaScript, CSS, HTML), this appears to be a full-stack To-Do application organized as a monorepo with distinct frontend and backend services.
-
-Below is a detailed `README.md` file created for this project, including the structure and assumed initialization steps based on standard practices for this technology stack.
 
 -----
 
